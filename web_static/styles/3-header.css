@@ -10,4 +10,6 @@ header {
 div.image {
   content:url(../images/3-logo.png);
   padding-left: 20px;
+  display:inline-block;
+  vertical-align: middle;
 }
