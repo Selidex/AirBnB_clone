@@ -74,3 +74,11 @@
 .nr_icon{
   content: url(../images/icon_bed.png)
 }
+
+.user{
+  padding-top: 15px;
+}
+
+.description{
+    color: black;
+}
