@@ -3,6 +3,8 @@ header {
   height: 70px;
   width: 100%;
   border-bottom: 1px solid #CCCCCC;
+  display: flex;
+  align-items: center;
 }
 div.image {
   content:url(../images/3-logo.png);
